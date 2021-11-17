@@ -1,1 +1,2 @@
-# racer-game-is-in-developmement
+# synchronousBallMovement
+Ball moving synchronously
